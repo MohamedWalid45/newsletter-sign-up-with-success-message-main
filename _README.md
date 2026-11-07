@@ -21,9 +21,8 @@ Users should be able to:
 ![](./preview.jpg)
 
 ### Links
-- Solution URL: https://github.com/MohamedWalid45/newsletter-sign-up-form-with-success-message-main
-- Live Site URL: https://mohamedwalid45.github.io/newsletter-sign-up-form-with-success-message-main/
-
+- Solution URL: https://github.com/MohamedWalid45/newsletter-sign-up-with-success-message-main
+- Live Site URL:https://mohamedwalid45.github.io/newsletter-sign-up-with-success-message-main/
 ## My process
 
 ### Built with
